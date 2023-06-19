@@ -1,0 +1,8 @@
+go 1.20
+
+use (
+	./match_controller
+	./match_evaluator
+	./match_frontend
+	./match_process
+)
