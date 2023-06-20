@@ -10,7 +10,7 @@ proto:
 	rm -rf $(PROJECT_DIR)/${PUSH_PROJECT_NAME}/$$PROJECT_NAME && \
 	mkdir -p $(PROJECT_DIR)/${PUSH_PROJECT_NAME}/$$PROJECT_NAME && \
 	cp -ar ${PROJECT_DIR}/$$PROJECT_NAME/proto "$(PROJECT_DIR)/${PUSH_PROJECT_NAME}/$$PROJECT_NAME" && \
-	echo "module gitee.com/microbeam/${PUSH_PROJECT_NAME}/$$PROJECT_NAME/proto" > $(PROJECT_DIR)/${PUSH_PROJECT_NAME}/$$PROJECT_NAME/proto/go.mod && \
+	echo "module github.com/askldfhjg/${PUSH_PROJECT_NAME}/$$PROJECT_NAME/proto" > $(PROJECT_DIR)/${PUSH_PROJECT_NAME}/$$PROJECT_NAME/proto/go.mod && \
 	echo "go 1.13" >> $(PROJECT_DIR)/${PUSH_PROJECT_NAME}/$$PROJECT_NAME/proto/go.mod
 
 	export PROJECT_NAME=match_frontend && \
@@ -19,7 +19,7 @@ proto:
 	rm -rf $(PROJECT_DIR)/${PUSH_PROJECT_NAME}/$$PROJECT_NAME && \
 	mkdir -p $(PROJECT_DIR)/${PUSH_PROJECT_NAME}/$$PROJECT_NAME && \
 	cp -ar ${PROJECT_DIR}/$$PROJECT_NAME/proto "$(PROJECT_DIR)/${PUSH_PROJECT_NAME}/$$PROJECT_NAME" && \
-	echo "module gitee.com/microbeam/${PUSH_PROJECT_NAME}/$$PROJECT_NAME/proto" > $(PROJECT_DIR)/${PUSH_PROJECT_NAME}/$$PROJECT_NAME/proto/go.mod && \
+	echo "module github.com/askldfhjg/${PUSH_PROJECT_NAME}/$$PROJECT_NAME/proto" > $(PROJECT_DIR)/${PUSH_PROJECT_NAME}/$$PROJECT_NAME/proto/go.mod && \
 	echo "go 1.13" >> $(PROJECT_DIR)/${PUSH_PROJECT_NAME}/$$PROJECT_NAME/proto/go.mod
 	
 	export PROJECT_NAME=match_process && \
@@ -28,7 +28,7 @@ proto:
 	rm -rf $(PROJECT_DIR)/${PUSH_PROJECT_NAME}/$$PROJECT_NAME && \
 	mkdir -p $(PROJECT_DIR)/${PUSH_PROJECT_NAME}/$$PROJECT_NAME && \
 	cp -ar ${PROJECT_DIR}/$$PROJECT_NAME/proto "$(PROJECT_DIR)/${PUSH_PROJECT_NAME}/$$PROJECT_NAME" && \
-	echo "module gitee.com/microbeam/${PUSH_PROJECT_NAME}/$$PROJECT_NAME/proto" > $(PROJECT_DIR)/${PUSH_PROJECT_NAME}/$$PROJECT_NAME/proto/go.mod && \
+	echo "module github.com/askldfhjg/${PUSH_PROJECT_NAME}/$$PROJECT_NAME/proto" > $(PROJECT_DIR)/${PUSH_PROJECT_NAME}/$$PROJECT_NAME/proto/go.mod && \
 	echo "go 1.13" >> $(PROJECT_DIR)/${PUSH_PROJECT_NAME}/$$PROJECT_NAME/proto/go.mod
 
 	export PROJECT_NAME=match_evaluator && \
@@ -37,7 +37,7 @@ proto:
 	rm -rf $(PROJECT_DIR)/${PUSH_PROJECT_NAME}/$$PROJECT_NAME && \
 	mkdir -p $(PROJECT_DIR)/${PUSH_PROJECT_NAME}/$$PROJECT_NAME && \
 	cp -ar ${PROJECT_DIR}/$$PROJECT_NAME/proto "$(PROJECT_DIR)/${PUSH_PROJECT_NAME}/$$PROJECT_NAME" && \
-	echo "module gitee.com/microbeam/${PUSH_PROJECT_NAME}/$$PROJECT_NAME/proto" > $(PROJECT_DIR)/${PUSH_PROJECT_NAME}/$$PROJECT_NAME/proto/go.mod && \
+	echo "module github.com/askldfhjg/${PUSH_PROJECT_NAME}/$$PROJECT_NAME/proto" > $(PROJECT_DIR)/${PUSH_PROJECT_NAME}/$$PROJECT_NAME/proto/go.mod && \
 	echo "go 1.13" >> $(PROJECT_DIR)/${PUSH_PROJECT_NAME}/$$PROJECT_NAME/proto/go.mod
 .PHONY: build
 build:
