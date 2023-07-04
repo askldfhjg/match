@@ -1,0 +1,72 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "start-server",
+            "dependsOn": [
+                "match_controller",
+                "match_process1",
+                "match_process2",
+                "match_process3",
+                "match_evaluator",
+                "match_front1",
+                "match_front2",
+                "match_helper"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "match_controller",
+            "type": "shell",
+            "command": "sh /home/askldfhjg/code/match/controller.sh",
+            "group": "none"
+        },
+        {
+            "label": "match_process1",
+            "type": "shell",
+            "command": "sh /home/askldfhjg/code/match/process1.sh",
+            "group": "none"
+        },
+        {
+            "label": "match_process2",
+            "type": "shell",
+            "command": "sh /home/askldfhjg/code/match/process2.sh",
+            "group": "none"
+        },
+        {
+            "label": "match_process3",
+            "type": "shell",
+            "command": "sh /home/askldfhjg/code/match/process3.sh",
+            "group": "none"
+        },        
+        {
+            "label": "match_evaluator",
+            "type": "shell",
+            "command": "sh /home/askldfhjg/code/match/eval.sh",
+            "group": "none"
+        },
+        {
+            "label": "match_front1",
+            "type": "shell",
+            "command": "sh /home/askldfhjg/code/match/front.sh",
+            "group": "none"
+        },
+        {
+            "label": "match_front2",
+            "type": "shell",
+            "command": "sh /home/askldfhjg/code/match/front.sh",
+            "group": "none"
+        },
+        {
+            "label": "match_helper",
+            "type": "shell",
+            "command": "sh /home/askldfhjg/code/match/helper.sh",
+            "group": "none"
+        },
+    ]
+}

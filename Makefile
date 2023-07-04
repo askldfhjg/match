@@ -56,3 +56,7 @@ build:
 	export PROJECT_NAME=match_evaluator && \
 	cd $(PROJECT_DIR)/$$PROJECT_NAME && \
 	go build -o $$PROJECT_NAME *.go
+
+	export PROJECT_NAME=match_helper && \
+	cd $(PROJECT_DIR)/$$PROJECT_NAME && \
+	go build -o $$PROJECT_NAME *.go
