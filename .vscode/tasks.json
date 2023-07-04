@@ -13,6 +13,8 @@
                 "match_evaluator",
                 "match_front1",
                 "match_front2",
+                "match_front3",
+                "match_front4",
                 "match_helper"
             ],
             "group": {
@@ -58,6 +60,18 @@
         },
         {
             "label": "match_front2",
+            "type": "shell",
+            "command": "sh /home/askldfhjg/code/match/front.sh",
+            "group": "none"
+        },
+        {
+            "label": "match_front3",
+            "type": "shell",
+            "command": "sh /home/askldfhjg/code/match/front.sh",
+            "group": "none"
+        },
+        {
+            "label": "match_front4",
             "type": "shell",
             "command": "sh /home/askldfhjg/code/match/front.sh",
             "group": "none"
