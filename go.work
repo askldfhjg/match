@@ -8,5 +8,5 @@ use (
 	./match_process
 )
 
-replace github.com/micro/micro/v3 v3.3.0 => ../micro
-replace github.com/micro/micro/plugin/kafka/broker/v3 => ../micro/plugin/kafka/broker
+// replace github.com/micro/micro/v3 v3.3.0 => ../micro
+// replace github.com/micro/micro/plugin/kafka/broker/v3 => ../micro/plugin/kafka/broker

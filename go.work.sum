@@ -532,6 +532,8 @@ github.com/askldfhjg/match_apis/match_process/proto v0.0.0-20230621021020-57881b
 github.com/askldfhjg/match_apis/match_process/proto v0.0.0-20230621062936-3ae1241c48d5/go.mod h1:U2h7k1TmDsyCSW82CfHCfH59Jl075osJtGRPruRyYDY=
 github.com/askldfhjg/match_apis/match_process/proto v0.0.0-20230704015118-25aead71a3e6 h1:h3JCczOzrXh3cRpjU1nFhot0ZPSmrqkVgqgUV3vHbj0=
 github.com/askldfhjg/match_apis/match_process/proto v0.0.0-20230704015118-25aead71a3e6/go.mod h1:U2h7k1TmDsyCSW82CfHCfH59Jl075osJtGRPruRyYDY=
+github.com/askldfhjg/micro/v3 v3.6.0/go.mod h1:TfYKBZX23ktP0b1sKzSoiNCyRTtjSSjkW7m/HXymaqw=
+github.com/askldfhjg/micro/v3 v3.6.1/go.mod h1:TfYKBZX23ktP0b1sKzSoiNCyRTtjSSjkW7m/HXymaqw=
 github.com/boombuler/barcode v1.0.0/go.mod h1:paBWMcWSl3LHKBqUq+rly7CNSldXjb2rDl3JlRe0mD8=
 github.com/boombuler/barcode v1.0.1/go.mod h1:paBWMcWSl3LHKBqUq+rly7CNSldXjb2rDl3JlRe0mD8=
 github.com/bradfitz/go-smtpd v0.0.0-20170404230938-deb6d6237625/go.mod h1:HYsPBTaaSFSlLx/70C2HPIMNZpVV8+vt/A+FMnYP11g=
