@@ -526,8 +526,6 @@ github.com/askldfhjg/match_apis/match_evaluator/proto v0.0.0-20230705083138-5d87
 github.com/askldfhjg/match_apis/match_evaluator/proto v0.0.0-20230705083138-5d8760d97e87/go.mod h1:HDt92+71VXbhgiWcRYyfVS4295hjGsja7YuQHZP5LI4=
 github.com/askldfhjg/match_apis/match_evaluator/proto v0.0.0-20230706063612-6820f981f0b3 h1:5GjVeId0pwYXUaHa1lzTnyQg/GIm8o6v72U/rEqFgZo=
 github.com/askldfhjg/match_apis/match_evaluator/proto v0.0.0-20230706072007-871782a42880 h1:MxbBKWnx0F4Vl2WwvTIgZUuZ9Za/Lot2OzEflvqMIXE=
-github.com/askldfhjg/match_apis/match_evaluator/proto v0.0.0-20230706074628-18f201506e74 h1:3v40XA65n3I4IqbiXH2FBPidWTjUKZIUakhB8EqPiUg=
-github.com/askldfhjg/match_apis/match_evaluator/proto v0.0.0-20230706074628-18f201506e74/go.mod h1:HDt92+71VXbhgiWcRYyfVS4295hjGsja7YuQHZP5LI4=
 github.com/askldfhjg/match_apis/match_frontend/proto v0.0.0-20230621014919-1c26389bb3d0 h1:xjiG6vHzveZxjsLSum+azKJ7pMKhukLMm6npVg1azqs=
 github.com/askldfhjg/match_apis/match_frontend/proto v0.0.0-20230621014919-1c26389bb3d0/go.mod h1:0NM2zxkWI7kAe/LnIbF+YN6M6fo3iEBtOdH3AAx80bo=
 github.com/askldfhjg/match_apis/match_frontend/proto v0.0.0-20230621021020-57881bae15e6/go.mod h1:0NM2zxkWI7kAe/LnIbF+YN6M6fo3iEBtOdH3AAx80bo=
@@ -550,6 +548,7 @@ github.com/askldfhjg/match_apis/match_process/proto v0.0.0-20230621021020-57881b
 github.com/askldfhjg/match_apis/match_process/proto v0.0.0-20230621062936-3ae1241c48d5/go.mod h1:U2h7k1TmDsyCSW82CfHCfH59Jl075osJtGRPruRyYDY=
 github.com/askldfhjg/match_apis/match_process/proto v0.0.0-20230705083138-5d8760d97e87 h1:7KL4dcLb6T6aRU3WY42hMW4XFX+cPNV9MgDTiu/GzoU=
 github.com/askldfhjg/match_apis/match_process/proto v0.0.0-20230705083138-5d8760d97e87/go.mod h1:U2h7k1TmDsyCSW82CfHCfH59Jl075osJtGRPruRyYDY=
+github.com/askldfhjg/match_apis/match_process/proto v0.0.0-20230706074628-18f201506e74/go.mod h1:U2h7k1TmDsyCSW82CfHCfH59Jl075osJtGRPruRyYDY=
 github.com/askldfhjg/micro/v3 v3.6.0/go.mod h1:TfYKBZX23ktP0b1sKzSoiNCyRTtjSSjkW7m/HXymaqw=
 github.com/askldfhjg/micro/v3 v3.6.1/go.mod h1:TfYKBZX23ktP0b1sKzSoiNCyRTtjSSjkW7m/HXymaqw=
 github.com/boombuler/barcode v1.0.0/go.mod h1:paBWMcWSl3LHKBqUq+rly7CNSldXjb2rDl3JlRe0mD8=
