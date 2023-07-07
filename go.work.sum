@@ -524,6 +524,10 @@ github.com/askldfhjg/match_apis/match_evaluator/proto v0.0.0-20230705034255-e578
 github.com/askldfhjg/match_apis/match_evaluator/proto v0.0.0-20230705034255-e578866a3edc/go.mod h1:HDt92+71VXbhgiWcRYyfVS4295hjGsja7YuQHZP5LI4=
 github.com/askldfhjg/match_apis/match_evaluator/proto v0.0.0-20230705083138-5d8760d97e87 h1:ZMs4i0h4pXhhSyh/zqYDokYXGOqyjy1tpfcNxBhQjoQ=
 github.com/askldfhjg/match_apis/match_evaluator/proto v0.0.0-20230705083138-5d8760d97e87/go.mod h1:HDt92+71VXbhgiWcRYyfVS4295hjGsja7YuQHZP5LI4=
+github.com/askldfhjg/match_apis/match_evaluator/proto v0.0.0-20230706063612-6820f981f0b3 h1:5GjVeId0pwYXUaHa1lzTnyQg/GIm8o6v72U/rEqFgZo=
+github.com/askldfhjg/match_apis/match_evaluator/proto v0.0.0-20230706072007-871782a42880 h1:MxbBKWnx0F4Vl2WwvTIgZUuZ9Za/Lot2OzEflvqMIXE=
+github.com/askldfhjg/match_apis/match_evaluator/proto v0.0.0-20230706074628-18f201506e74 h1:3v40XA65n3I4IqbiXH2FBPidWTjUKZIUakhB8EqPiUg=
+github.com/askldfhjg/match_apis/match_evaluator/proto v0.0.0-20230706074628-18f201506e74/go.mod h1:HDt92+71VXbhgiWcRYyfVS4295hjGsja7YuQHZP5LI4=
 github.com/askldfhjg/match_apis/match_frontend/proto v0.0.0-20230621014919-1c26389bb3d0 h1:xjiG6vHzveZxjsLSum+azKJ7pMKhukLMm6npVg1azqs=
 github.com/askldfhjg/match_apis/match_frontend/proto v0.0.0-20230621014919-1c26389bb3d0/go.mod h1:0NM2zxkWI7kAe/LnIbF+YN6M6fo3iEBtOdH3AAx80bo=
 github.com/askldfhjg/match_apis/match_frontend/proto v0.0.0-20230621021020-57881bae15e6/go.mod h1:0NM2zxkWI7kAe/LnIbF+YN6M6fo3iEBtOdH3AAx80bo=
@@ -534,6 +538,12 @@ github.com/askldfhjg/match_apis/match_frontend/proto v0.0.0-20230705022705-3c9e6
 github.com/askldfhjg/match_apis/match_frontend/proto v0.0.0-20230705022705-3c9e679005cf/go.mod h1:0NM2zxkWI7kAe/LnIbF+YN6M6fo3iEBtOdH3AAx80bo=
 github.com/askldfhjg/match_apis/match_frontend/proto v0.0.0-20230705034255-e578866a3edc h1:GosZfMgrtIoA7enRJZRnrXp68nCai4Lq2eCQDIGOy/k=
 github.com/askldfhjg/match_apis/match_frontend/proto v0.0.0-20230705034255-e578866a3edc/go.mod h1:0NM2zxkWI7kAe/LnIbF+YN6M6fo3iEBtOdH3AAx80bo=
+github.com/askldfhjg/match_apis/match_frontend/proto v0.0.0-20230706063612-6820f981f0b3 h1:M1FZM/OGOIOPaY5p+d+aOR6NYlKk1BNdFifPDYncRpw=
+github.com/askldfhjg/match_apis/match_frontend/proto v0.0.0-20230706063612-6820f981f0b3/go.mod h1:0NM2zxkWI7kAe/LnIbF+YN6M6fo3iEBtOdH3AAx80bo=
+github.com/askldfhjg/match_apis/match_frontend/proto v0.0.0-20230706072007-871782a42880 h1:UNTpzRWK6fWjpp58tpuA69073jsf31LETH71+EWvsMw=
+github.com/askldfhjg/match_apis/match_frontend/proto v0.0.0-20230706072007-871782a42880/go.mod h1:0NM2zxkWI7kAe/LnIbF+YN6M6fo3iEBtOdH3AAx80bo=
+github.com/askldfhjg/match_apis/match_frontend/proto v0.0.0-20230706074628-18f201506e74 h1:3LVzAO6kqNh2IyO0AdApMbaHGa9jQzuToHAdmXSmI6k=
+github.com/askldfhjg/match_apis/match_frontend/proto v0.0.0-20230706074628-18f201506e74/go.mod h1:0NM2zxkWI7kAe/LnIbF+YN6M6fo3iEBtOdH3AAx80bo=
 github.com/askldfhjg/match_apis/match_process/proto v0.0.0-20230621014919-1c26389bb3d0 h1:/0LheLD0VnZSBt8CaJvZYH+/kFx6eQ89Mhy/v59bvNk=
 github.com/askldfhjg/match_apis/match_process/proto v0.0.0-20230621014919-1c26389bb3d0/go.mod h1:U2h7k1TmDsyCSW82CfHCfH59Jl075osJtGRPruRyYDY=
 github.com/askldfhjg/match_apis/match_process/proto v0.0.0-20230621021020-57881bae15e6/go.mod h1:U2h7k1TmDsyCSW82CfHCfH59Jl075osJtGRPruRyYDY=
@@ -542,8 +552,6 @@ github.com/askldfhjg/match_apis/match_process/proto v0.0.0-20230705083138-5d8760
 github.com/askldfhjg/match_apis/match_process/proto v0.0.0-20230705083138-5d8760d97e87/go.mod h1:U2h7k1TmDsyCSW82CfHCfH59Jl075osJtGRPruRyYDY=
 github.com/askldfhjg/micro/v3 v3.6.0/go.mod h1:TfYKBZX23ktP0b1sKzSoiNCyRTtjSSjkW7m/HXymaqw=
 github.com/askldfhjg/micro/v3 v3.6.1/go.mod h1:TfYKBZX23ktP0b1sKzSoiNCyRTtjSSjkW7m/HXymaqw=
-github.com/askldfhjg/micro/v3 v3.6.4 h1:XfnNjpp/GxYkBQ9MnlWaGypYLCH71wPoO0u+5w0pNQw=
-github.com/askldfhjg/micro/v3 v3.6.4/go.mod h1:hQzjGL8wF3Nwf0lhoDOOIvSnHPgZ8rs4wikFvCTYG/c=
 github.com/boombuler/barcode v1.0.0/go.mod h1:paBWMcWSl3LHKBqUq+rly7CNSldXjb2rDl3JlRe0mD8=
 github.com/boombuler/barcode v1.0.1/go.mod h1:paBWMcWSl3LHKBqUq+rly7CNSldXjb2rDl3JlRe0mD8=
 github.com/bradfitz/go-smtpd v0.0.0-20170404230938-deb6d6237625/go.mod h1:HYsPBTaaSFSlLx/70C2HPIMNZpVV8+vt/A+FMnYP11g=

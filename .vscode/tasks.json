@@ -10,7 +10,9 @@
                 "match_process1",
                 "match_process2",
                 "match_process3",
-                "match_evaluator",
+                "match_evaluator1",
+                "match_evaluator2",
+                "match_evaluator3",
                 "match_front1",
                 "match_front2",
                 "match_front3",
@@ -47,7 +49,19 @@
             "group": "none"
         },        
         {
-            "label": "match_evaluator",
+            "label": "match_evaluator1",
+            "type": "shell",
+            "command": "sh /home/askldfhjg/code/match/eval.sh",
+            "group": "none"
+        },
+        {
+            "label": "match_evaluator2",
+            "type": "shell",
+            "command": "sh /home/askldfhjg/code/match/eval.sh",
+            "group": "none"
+        },
+        {
+            "label": "match_evaluator3",
             "type": "shell",
             "command": "sh /home/askldfhjg/code/match/eval.sh",
             "group": "none"
